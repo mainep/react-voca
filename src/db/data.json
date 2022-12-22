@@ -15,6 +15,10 @@
     {
       "id": 4,
       "day": 4
+    },
+    {
+      "day": 5,
+      "id": 5
     }
   ],
   "words": [
@@ -23,13 +27,6 @@
       "day": 1,
       "eng": "book",
       "kor": "책",
-      "isDone": false
-    },
-    {
-      "id": 2,
-      "day": 1,
-      "eng": "car",
-      "kor": "자동차",
       "isDone": false
     },
     {
@@ -44,14 +41,7 @@
       "day": 2,
       "eng": "pencil",
       "kor": "연필",
-      "isDone": false
-    },
-    {
-      "id": 5,
-      "day": 2,
-      "eng": "window",
-      "kor": "창문",
-      "isDone": false
+      "isDone": true
     },
     {
       "id": 6,
@@ -68,13 +58,6 @@
       "isDone": false
     },
     {
-      "id": 8,
-      "day": 3,
-      "eng": "monkey",
-      "kor": "원숭이",
-      "isDone": false
-    },
-    {
       "id": 9,
       "day": 4,
       "eng": "apple",
@@ -82,11 +65,46 @@
       "isDone": false
     },
     {
-      "id": 10,
-      "day": 4,
-      "eng": "apple",
-      "kor": "사과",
-      "isDone": false
+      "day": "3",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "day": "4",
+      "eng": "cup",
+      "kor": "컵",
+      "isDone": false,
+      "id": 11
+    },
+    {
+      "day": "3",
+      "eng": "qwe",
+      "kor": "ghdf",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "day": "1",
+      "eng": "adfaf",
+      "kor": "123123",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "day": "1",
+      "eng": "asda",
+      "kor": "qweqwe",
+      "isDone": false,
+      "id": 14
+    },
+    {
+      "day": "1",
+      "eng": "asda",
+      "kor": "qwd",
+      "isDone": false,
+      "id": 15
     }
   ]
 }
